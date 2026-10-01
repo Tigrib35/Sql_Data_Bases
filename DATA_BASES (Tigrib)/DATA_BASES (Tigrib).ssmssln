@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DATA_BASES (Tigrib)", "DATA_BASES (Tigrib)\DATA_BASES (Tigrib).ssmssqlproj", "{D13D25F4-1A65-423A-BB37-60F977FA4C3B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Data_Types", "Data_Types\Data_Types.ssmssqlproj", "{2DFE919F-1ADB-4A8E-B6D2-EDF3098002C0}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "схемы", "схемы\схемы.ssmssqlproj", "{07B02891-8B50-431D-91C7-680C3C0E6F48}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "таблицы", "таблицы\таблицы.ssmssqlproj", "{C01E9FB4-4694-4BCB-8EFA-8EF7B28BC2F2}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "функции", "функции\функции.ssmssqlproj", "{0FB33AFE-18D3-48F6-B0BC-1AE43AC807E1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "for shop", "for shop\for shop.ssmssqlproj", "{18A4B773-462E-49D5-9CB8-EFD2174B3C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13D25F4-1A65-423A-BB37-60F977FA4C3B}.Default|Default.ActiveCfg = Default
+		{2DFE919F-1ADB-4A8E-B6D2-EDF3098002C0}.Default|Default.ActiveCfg = Default
+		{07B02891-8B50-431D-91C7-680C3C0E6F48}.Default|Default.ActiveCfg = Default
+		{C01E9FB4-4694-4BCB-8EFA-8EF7B28BC2F2}.Default|Default.ActiveCfg = Default
+		{0FB33AFE-18D3-48F6-B0BC-1AE43AC807E1}.Default|Default.ActiveCfg = Default
+		{4C76CEB9-2815-4DDC-A147-7A10E67AB1D3}.Default|Default.ActiveCfg = Default
+		{18A4B773-462E-49D5-9CB8-EFD2174B3C7A}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24EA2B9C-E1D5-455E-BF64-5BFD5DD70C71}
+	EndGlobalSection
+EndGlobal
